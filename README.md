@@ -1197,7 +1197,7 @@
 				<img src="https://coffee.alexflipnote.dev/assets/profile.png" height="20px">
 				<a href="https://github.com/aurelione/coffee_api.js"> coffee_api.js </a> </td>
 			<td>
-				<img src="https://quokka.pics/images/logo.svg" height="20px">
+				<img src="https://avatars.githubusercontent.com/u/119902381?s=200&v=4" height="20px">
 				<a href="https://github.com/aurelione/quokka_pics.js"> quokka_pics.js </a> </td>
 			<td>
 				<img src="https://rapidapi.com/cdn/images?url=https://rapidapi-prod-apis.s3.amazonaws.com/d3a34aa5-b743-444c-9f27-2efe0bea7b9a.png" height="20px">
