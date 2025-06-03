@@ -1180,7 +1180,7 @@
 				<img src="https://user-images.githubusercontent.com/77536370/213907111-e64296b0-0f28-4e84-b8d1-affd204f83a5.svg" height="20px">
 				<a href="https://github.com/aurelione/icon_finder.js"> icon_finder.js </a> </td>
 			<td>
-				<img src="https://goprogram.ai/favicon.ico" height="20px">
+				<img src="https://web.archive.org/web/20230421162943if_/https://goprogram.ai/favicon.ico" height="20px">
 				<a href="https://github.com/aurelione/go_program_ai.js"> go_program_ai.js </a> </td>
 			<td>
 				<img src="https://raw.githubusercontent.com/Animechan-API/animechan/main/.github/logo.png" height="20px">
