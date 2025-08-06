@@ -105,7 +105,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="https://www.frankfurter.app/images/favicon.png" height="20px">
+				<img src="https://frankfurter.dev/favicon.svg?v=1748629791" height="20px">
 				<a href="https://github.com/aurelione/frankfurter.js"> frankfurter.js </a> </td>
 			<td>
 				<img src="https://github.com/user-attachments/assets/733c1eef-8a9f-4e30-acdf-30e6269a6202" height="20px">
