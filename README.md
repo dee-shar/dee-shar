@@ -100,7 +100,7 @@
 				<img src="https://github.com/user-attachments/assets/6a53f6f6-9049-46f5-ba69-16bf0233cd1f" height="20px">
 				<a href="https://github.com/aurelione/stephen_king_api.js"> stephen_king_api.js </a> </td>
 			<td>
-				<img src="https://www.vatcomply.com/favicon.ico" height="20px">
+				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ72ONndRqb3ljhty-gkZesBoXOuMSAgy8gA&s" height="20px">
 				<a href="https://github.com/aurelione/vat_comply.js"> vat_comply.js </a> </td>
 		</tr>
 		<tr>
