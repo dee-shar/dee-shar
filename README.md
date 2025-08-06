@@ -58,7 +58,7 @@
 				<img src="https://play-lh.googleusercontent.com/0hCEdq8rdzS-OSiLRbenLftA_yB9gTfaAP-Pz_UWukqU7hGnZ1wUYYjo3zzZReEQuRk" height="20px">
 				<a href="https://github.com/aurelione/intellect.sh"> intellect.sh </a> </td>
 			<td>
-				<img src="https://web.archive.org/web/20240327224213im_/https://www.1secmail.com/img/favicon.ico" height="20px">
+				<img src="https://web.archive.org/web/20240331023634im_/https://www.1secmail.com/img/logo.png" height="20px">
 				<a href="https://github.com/aurelione/1secmail.sh"> 1secmail.sh </a> </td>
 			<td>
 				<img src="https://user-images.githubusercontent.com/77536370/216816715-8205447d-4111-4b26-9972-b9aea4fa98fe.png" height="20px">
