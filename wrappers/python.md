@@ -233,7 +233,7 @@
         <img src="https://play-lh.googleusercontent.com/V3tQSnvUIUtlPJHuadNYfV_IbFHS8KcNMeWqBg2LqyA--QtmITKzFJ5hP2LASdx61A=w240-h480-rw" height="20px">
         <a href="https://github.com/aurelione/lmk.py"> lmk.py </a> </td>
       <td>
-        <img src="https://gasome.com/appIcon.png" height="20px">
+        <img src="https://github.com/user-attachments/assets/9de278b4-6232-4d92-94ca-51497b9f0bc6" height="20px">
         <a href="https://github.com/aurelione/gasome.py"> gasome.py </a> </td>
       <td>
         <img src="https://dog.ceo/img/dog-api-logo.svg" height="20px">
