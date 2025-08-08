@@ -1,126 +1,128 @@
 <body>
-	<div align="center">
-		<h2> Stack </h2>
-		<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-		<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-		<img src="https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-		<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-		<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-		<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-		<img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3">
-		<img src="https://img.shields.io/badge/php-ffffff.svg?style=for-the-badge&logo=php">
-	</div>
-	<div>
-	<table>
-		<tr> <th colspan="5">Wrappers</th> </tr>
-		<tr> <th colspan="5">Python - 100</th> </tr>
-		<tr>
-			<td>
-				<img src="https://aminoapps.com/static/img/amino-logo-ld.png" height="20px">
-				<a href="https://github.com/aurelione/aminoapps.py"> aminoapps.py </a> </td>
-			<td>
-				<img src="https://anilibria.app/res/icons/ic_anilibria_white.svg" height="20px">
-				<a href="https://github.com/aurelione/anilibria.py"> anilibria.py </a> </td>
-			<td>
-				<img src="https://user-images.githubusercontent.com/77536370/229271639-8d9834f9-b983-470b-833b-35ab9496e93d.svg" height="20px">
-				<a href="https://github.com/aurelione/remanga.py"> remanga.py </a> </td>
-			<td>
-				<img src="https://sun9-66.userapi.com/s/v1/if1/Yaj0rTAS--iQS0Cf_b4Wv3mbHwkjYLRG6MbbwzKqVbg5mL79CHtSJe5OzFm1rTDLKcdfYRxJ.jpg?size=220x220&quality=96&type=album" height="20px">
-				<a href="https://github.com/aurelione/randstuff.py"> randstuff.py </a> </td>
-			<td>
-				<img src="https://i.postimg.cc/cCm4FTYk/svgexport-1-1.png", height="20px">
-				<a href="https://github.com/aurelione/author_today.py"> author_today.py </a> </td>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://pbs.twimg.com/profile_images/1126922506286325761/x4T2PAkG_400x400.png" height="20px">
-				<a href="https://github.com/aurelione/amino.py"> amino.py </a> </td>
-			<td>
-				<img src="https://play-lh.googleusercontent.com/l85wmjBOqRAwoDaKKO4_aEwjBSZnLTXS52FvlB-yW4Tmp9b48geIM3xcZbBVzNsNQxE" height="20px">
-				<a href="https://github.com/aurelione/projectz.py"> projectz.py </a> </td>
-			<td>
-				<img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" height="20px">
-				<a href="https://github.com/aurelione/discord_user.py"> discord_user.py </a> </td>
-			<td>
-				<img src="https://play-lh.googleusercontent.com/xBMmaATox_2z_rb76UCJjh89iWITz6Ivqq4FyguM6bpi7429suZHIoB-exrAAJkyrQ" height="20px">
-				<a href="https://github.com/aurelione/checkers_online.py"> checkers_online.py </a> </td>
-			<td>
-				<img src="https://play-lh.googleusercontent.com/TQDa6xjLfzjRV_MtTOsGYHaxEpJ7A5WvEYj7hmTx6bB0Jj6H2tSWiB-cVVT0LDXEaDDP" height="20px">
-				<a href="https://github.com/aurelione/one_h_one_online.py"> one_h_one_online.py </a> </td>
-		</tr>
-		<tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/python.md"> Continue</a></th> </tr>
-		<tr> <th colspan="5">Bash - 150</th> </tr>
-		<tr>
-			<td>
-				<img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
-				<a href="https://github.com/aurelione/crime_mobile.sh"> crime_mobile.sh </a> </td>
-			<td>
-				<img src="https://play-lh.googleusercontent.com/0hCEdq8rdzS-OSiLRbenLftA_yB9gTfaAP-Pz_UWukqU7hGnZ1wUYYjo3zzZReEQuRk" height="20px">
-				<a href="https://github.com/aurelione/intellect.sh"> intellect.sh </a> </td>
-			<td>
-				<img src="https://web.archive.org/web/20240331023634im_/https://www.1secmail.com/img/logo.png" height="20px">
-				<a href="https://github.com/aurelione/1secmail.sh"> 1secmail.sh </a> </td>
-			<td>
-				<img src="https://user-images.githubusercontent.com/77536370/216816715-8205447d-4111-4b26-9972-b9aea4fa98fe.png" height="20px">
-				<a href="https://github.com/aurelione/owo.sh"> owo.sh </a> </td>
-			<td>
-				<img src="https://user-images.githubusercontent.com/77536370/216817366-0b359fd9-c2ea-4c7c-ba10-a7be237520c4.png" height="20px">
-				<a href="https://github.com/aurelione/kick_box.sh"> kick_box.sh </a> </td>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://www.thecocktaildb.com/images/logo.png" height="20px">
-				<a href="https://github.com/aurelione/cocktail_db.sh"> cocktail_db.sh </a> </td>
-			<td>
-				<img src="https://raw.githubusercontent.com/paramt/1pt/master/resources/favicon/android-chrome-512x512.png" height="20px">
-				<a href="https://github.com/aurelione/1pt.sh"> 1pt.sh </a> </td>
-			<td>
-				<img src="https://play-lh.googleusercontent.com/bJnYvc5yLIScw4gcbSYj3C006Fr25BiojKFkqOK4cK9P4Vk0iQ-Yj2VpMchu9yCpy0k=w240-h480-rw" height="20px">
-				<a href="https://github.com/aurelione/anon_stars.sh"> anon_stars.sh </a> </td>
-			<td>
-				<img src="https://play-lh.googleusercontent.com/A1OFVt6jVim8d1a3FpEMQJZSEA23Y1URppBxSckBUSVwkKWDkw3lz7EUYtVZCqiWm9g" height="20px">
-				<a href="https://github.com/aurelione/anon.sh"> anon.sh </a> </td>
-			<td>
-				<img src="https://user-images.githubusercontent.com/77536370/221360184-c94cf4db-0f49-45fb-81bd-e9d4763beba5.svg" height="20px">
-				<a href="https://github.com/aurelione/temp_number.sh"> temp_number.sh </a> </td>
-		</tr>
-		<tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/bash.md"> Continue</a></th> </tr>
-		<tr> <th colspan="5">JavaScript - 100</th> </tr>
-		<tr>
-			<td>
-				<img src="https://postali.app/favicon.svg" height="20px">
-				<a href="https://github.com/aurelione/postali.js"> postali.js </a> </td>
-			<td>
-				<img src="https://color.serialif.com/images/favicon.png" height="20px">
-				<a href="https://github.com/aurelione/serialif.js"> serialif.js </a> </td>
-			<td>
-				<img src="https://github.com/slftool/slftool.github.io/blob/master/icon.png?raw=true" height="20px">
-				<a href="https://github.com/aurelione/slf_api.js"> slf_api.js </a> </td>
-			<td>
-				<img src="https://github.com/user-attachments/assets/6a53f6f6-9049-46f5-ba69-16bf0233cd1f" height="20px">
-				<a href="https://github.com/aurelione/stephen_king_api.js"> stephen_king_api.js </a> </td>
-			<td>
-				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ72ONndRqb3ljhty-gkZesBoXOuMSAgy8gA&s" height="20px">
-				<a href="https://github.com/aurelione/vat_comply.js"> vat_comply.js </a> </td>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://frankfurter.dev/favicon.svg?v=1748629791" height="20px">
-				<a href="https://github.com/aurelione/frankfurter.js"> frankfurter.js </a> </td>
-			<td>
-				<img src="https://github.com/user-attachments/assets/733c1eef-8a9f-4e30-acdf-30e6269a6202" height="20px">
-				<a href="https://github.com/aurelione/get_the_data.js"> get_the_data.js </a> </td>
-			<td>
-				<img src="https://isrostats.in/favicon.ico" height="20px">
-				<a href="https://github.com/aurelione/isro_stats.js"> isro_stats.js </a> </td>
-			<td>
-				<img src="https://libretranslate.com/static/icon.svg" height="20px">
-				<a href="https://github.com/aurelione/libre_translate.js"> libre_translate.js </a> </td>
-			<td>
-				<img src="https://github.com/user-attachments/assets/cf229db3-3cf4-41d0-a7ca-95926b6f5160" height="20px">
-				<a href="https://github.com/aurelione/logo_types.js"> logo_types.js </a> </td>
-		</tr>
-		<tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/javascript.md"> Continue</a></th> </tr>
-	</table>
-	</div>
+  <div align="center">
+    <h2> Stack </h2>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img srA="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3">
+    <img src="https://img.shields.io/badge/php-ffffff.svg?style=for-the-badge&logo=php">
+  </div>
+  <div>
+  <table>
+    <tr> <th colspan="5">Wrappers</th> </tr>
+    <tr> <th colspan="5">Python - 100</th> </tr>
+    <tr>
+      <td>
+        <img src="https://aminoapps.com/static/img/amino-logo-ld.png" height="20px">
+        <a href="https://github.com/aurelione/aminoapps.py"> aminoapps.py </a> </td>
+      <td>
+        <img src="https://anilibria.app/res/icons/ic_anilibria_white.svg" height="20px">
+        <a href="https://github.com/aurelione/anilibria.py"> anilibria.py </a> </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/77536370/229271639-8d9834f9-b983-470b-833b-35ab9496e93d.svg" height="20px">
+        <a href="https://github.com/aurelione/remanga.py"> remanga.py </a> </td>
+      <td>
+        <img src="https://sun9-66.userapi.com/s/v1/if1/Yaj0rTAS--iQS0Cf_b4Wv3mbHwkjYLRG6MbbwzKqVbg5mL79CHtSJe5OzFm1rTDLKcdfYRxJ.jpg?size=220x220&quality=96&type=album" height="20px">
+        <a href="https://github.com/aurelione/randstuff.py"> randstuff.py </a> </td>
+      <td>
+        <img src="https://i.postimg.cc/cCm4FTYk/svgexport-1-1.png", height="20px">
+        <a href="https://github.com/aurelione/author_today.py"> author_today.py </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://pbs.twimg.com/profile_images/1126922506286325761/x4T2PAkG_400x400.png" height="20px">
+        <a href="https://github.com/aurelione/amino.py"> amino.py </a> </td>
+      <td>
+        <img src="https://play-lh.googleusercontent.com/l85wmjBOqRAwoDaKKO4_aEwjBSZnLTXS52FvlB-yW4Tmp9b48geIM3xcZbBVzNsNQxE" height="20px">
+        <a href="https://github.com/aurelione/projectz.py"> projectz.py </a> </td>
+      <td>
+        <img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" height="20px">
+        <a href="https://github.com/aurelione/discord_user.py"> discord_user.py </a> </td>
+      <td>
+        <img src="https://play-lh.googleusercontent.com/xBMmaATox_2z_rb76UCJjh89iWITz6Ivqq4FyguM6bpi7429suZHIoB-exrAAJkyrQ" height="20px">
+        <a href="https://github.com/aurelione/checkers_online.py"> checkers_online.py </a> </td>
+      <td>
+        <img src="https://play-lh.googleusercontent.com/TQDa6xjLfzjRV_MtTOsGYHaxEpJ7A5WvEYj7hmTx6bB0Jj6H2tSWiB-cVVT0LDXEaDDP" height="20px">
+        <a href="https://github.com/aurelione/one_h_one_online.py"> one_h_one_online.py </a> </td>
+    </tr>
+    <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/python.md"> Continue</a></th> </tr>
+    <tr> <th colspan="5">Bash - 150</th> </tr>
+    <tr>
+      <td>
+        <img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
+        <a href="https://github.com/aurelione/crime_mobile.sh"> crime_mobile.sh </a> </td>
+      <td>
+        <img src="https://play-lh.googleusercontent.com/0hCEdq8rdzS-OSiLRbenLftA_yB9gTfaAP-Pz_UWukqU7hGnZ1wUYYjo3zzZReEQuRk" height="20px">
+        <a href="https://github.com/aurelione/intellect.sh"> intellect.sh </a> </td>
+      <td>
+        <img src="https://web.archive.org/web/20240331023634im_/https://www.1secmail.com/img/logo.png" height="20px">
+        <a href="https://github.com/aurelione/1secmail.sh"> 1secmail.sh </a> </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/77536370/216816715-8205447d-4111-4b26-9972-b9aea4fa98fe.png" height="20px">
+        <a href="https://github.com/aurelione/owo.sh"> owo.sh </a> </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/77536370/216817366-0b359fd9-c2ea-4c7c-ba10-a7be237520c4.png" height="20px">
+        <a href="https://github.com/aurelione/kick_box.sh"> kick_box.sh </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://www.thecocktaildb.com/images/logo.png" height="20px">
+        <a href="https://github.com/aurelione/cocktail_db.sh"> cocktail_db.sh </a> </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/paramt/1pt/master/resources/favicon/android-chrome-512x512.png" height="20px">
+        <a href="https://github.com/aurelione/1pt.sh"> 1pt.sh </a> </td>
+      <td>
+        <img src="https://play-lh.googleusercontent.com/bJnYvc5yLIScw4gcbSYj3C006Fr25BiojKFkqOK4cK9P4Vk0iQ-Yj2VpMchu9yCpy0k=w240-h480-rw" height="20px">
+        <a href="https://github.com/aurelione/anon_stars.sh"> anon_stars.sh </a> </td>
+      <td>
+        <img src="https://play-lh.googleusercontent.com/A1OFVt6jVim8d1a3FpEMQJZSEA23Y1URppBxSckBUSVwkKWDkw3lz7EUYtVZCqiWm9g" height="20px">
+        <a href="https://github.com/aurelione/anon.sh"> anon.sh </a> </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/77536370/221360184-c94cf4db-0f49-45fb-81bd-e9d4763beba5.svg" height="20px">
+        <a href="https://github.com/aurelione/temp_number.sh"> temp_number.sh </a> </td>
+    </tr>
+    <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/bash.md"> Continue</a></th> </tr>
+    <tr> <th colspan="5">JavaScript - 100</th> </tr>
+    <tr>
+      <td>
+        <img src="https://postali.app/favicon.svg" height="20px">
+        <a href="https://github.com/aurelione/postali.js"> postali.js </a> </td>
+      <td>
+        <img src="https://color.serialif.com/images/favicon.png" height="20px">
+        <a href="https://github.com/aurelione/serialif.js"> serialif.js </a> </td>
+      <td>
+        <img src="https://github.com/slftool/slftool.github.io/blob/master/icon.png?raw=true" height="20px">
+        <a href="https://github.com/aurelione/slf_api.js"> slf_api.js </a> </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/6a53f6f6-9049-46f5-ba69-16bf0233cd1f" height="20px">
+        <a href="https://github.com/aurelione/stephen_king_api.js"> stephen_king_api.js </a> </td>
+      <td>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ72ONndRqb3ljhty-gkZesBoXOuMSAgy8gA&s" height="20px">
+        <a href="https://github.com/aurelione/vat_comply.js"> vat_comply.js </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://frankfurter.dev/favicon.svg?v=1748629791" height="20px">
+        <a href="https://github.com/aurelione/frankfurter.js"> frankfurter.js </a> </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/733c1eef-8a9f-4e30-acdf-30e6269a6202" height="20px">
+        <a href="https://github.com/aurelione/get_the_data.js"> get_the_data.js </a> </td>
+      <td>
+        <img src="https://isrostats.in/favicon.ico" height="20px">
+        <a href="https://github.com/aurelione/isro_stats.js"> isro_stats.js </a> </td>
+      <td>
+        <img src="https://libretranslate.com/static/icon.svg" height="20px">
+        <a href="https://github.com/aurelione/libre_translate.js"> libre_translate.js </a> </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/cf229db3-3cf4-41d0-a7ca-95926b6f5160" height="20px">
+        <a href="https://github.com/aurelione/logo_types.js"> logo_types.js </a> </td>
+    </tr>
+    <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/javascript.md"> Continue</a></th> </tr>
+  </table>
+	   <img src="https://github-readme-stats.vercel.app/api?username=dee-shar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dee-shar&theme=vue-dark&hide_border=true">
+  </div>
 </body>
