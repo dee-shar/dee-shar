@@ -131,7 +131,7 @@
         <img src="https://psychonauts-api.netlify.app/static/media/psychonauts-logo.741d0b4d.png" height="20px">
         <a href="https://github.com/aurelione/psychonauts.py"> psychonauts.py </a> </td>
       <td>
-        <img src="https://www.tronalddump.io/img/tronalddump_850x850.png" height="20px">
+        <img src="https://web.archive.org/web/20210716123211im_/https://www.tronalddump.io/img/tronalddump_850x850.png" height="20px">
         <a href="https://github.com/aurelione/tronald_dump.py"> tronald_dump.py </a> </td>
       <td>
         <img src="https://i.postimg.cc/0yCgF1Bm/19-54-25-logo.png" height="20px">
