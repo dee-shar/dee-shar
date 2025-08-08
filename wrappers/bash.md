@@ -421,10 +421,10 @@
         <img src="https://mdn.r.worldssl.net/img/10minuteinboxlogo.png" height="20px">
         <a href="https://github.com/dee-shar/minute_inbox.sh"> minute_inbox.sh </a> </td>
       <td>
-        <img src="https://workingvpn.com/img/workingvpn-logo-white.svg" height="20px">
+        <img src="https://workingvpn.com/assets/website/img/favicon.ico" height="20px">
         <a href="https://github.com/dee-shar/working_vpn.sh"> working_vpn.sh </a> </td>
       <td>
-        <img src="https://vpnly.net/_assets/images/logo.svg" height="20px">
+        <img src="https://vpnly.com/wp-content/themes/vpnly/assets/images/logo.svg" height="20px">
         <a href="https://github.com/dee-shar/vpnly.sh"> vpnly.sh </a> </td>
     </tr>
     <tr>
