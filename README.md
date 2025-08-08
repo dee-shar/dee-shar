@@ -1,14 +1,7 @@
 <body>
   <div align="center">
-    <h2> Stack </h2>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img srA="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3">
-    <img src="https://img.shields.io/badge/php-ffffff.svg?style=for-the-badge&logo=php">
+    <h2> Skills </h2>
+    <img src="https://skillicons.dev/icons?i=python,javascript,bash,c,html,css,php,markdown">
   </div>
   <div>
   <table>
