@@ -509,7 +509,7 @@
         <img src="https://website-cdn.ipinfo.io/_next/static/media/logo-positive.0a4ba892.svg" height="20px">
         <a href="https://github.com/dee-shar/ip_info.sh"> ip_info.sh </a> </td>
       <td>
-        <img src="https://www.findip.net/assets/images/logo-dark.png" height="20px">
+        <img src="https://findip.net/assets/images/logo-dark.png" height="20px">
         <a href="https://github.com/dee-shar/find_ip.sh"> find_ip.sh </a> </td>
     </tr>
   </table>
