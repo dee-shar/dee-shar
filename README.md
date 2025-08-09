@@ -45,7 +45,7 @@
     <tr> <th colspan="5">Bash - 150</th> </tr>
     <tr>
       <td>
-        <img src="https://forum.crime-mobile.ru/images/logo.png" height="20px">
+        <img src="https://github.com/user-attachments/assets/07109d69-db91-4ac5-84d6-5cc713c38589" height="20px">
         <a href="https://github.com/aurelione/crime_mobile.sh"> crime_mobile.sh </a> </td>
       <td>
         <img src="https://play-lh.googleusercontent.com/0hCEdq8rdzS-OSiLRbenLftA_yB9gTfaAP-Pz_UWukqU7hGnZ1wUYYjo3zzZReEQuRk" height="20px">
