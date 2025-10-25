@@ -114,11 +114,14 @@
         <a href="https://github.com/dee-shar/logo_types.js"> logo_types.js </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/javascript.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">C# - 1</th> </tr>
+    <tr> <th colspan="5">C# - 2</th> </tr>
     <tr>
       <td>
         <img src="https://minecraftrating.ru/images/logo-big-dark.png" height="20px">
         <a href="https://github.com/dee-shar/minecraft_rating.cs"> minecraft_rating.cs </a> </td>
+      <td>
+        <img src="https://mcstatus.io/img/icon.png" height="20px">
+        <a href="https://github.com/dee-shar/mc_status.cs"> mc_status.cs </a> </td>
     </tr>
   </table>
   <div align="center">
