@@ -1,5 +1,9 @@
 <body>
   <div align="center">
+    <h2> About </h2>
+    I don't think that I am an interesting person so can't say nothing.
+  </div>
+  <div align="center">
     <h2> Skills </h2>
     <img src="https://skillicons.dev/icons?i=python,javascript,bash,c,html,css,php,markdown,ruby,tailwind,cs&perline=4">
   </div>
