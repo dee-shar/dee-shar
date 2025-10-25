@@ -118,14 +118,57 @@
         <a href="https://github.com/dee-shar/logo_types.js"> logo_types.js </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/javascript.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">C# - 2</th> </tr>
+    <tr> <th colspan="5">C# - 15</th> </tr>
     <tr>
       <td>
         <img src="https://minecraftrating.ru/images/logo-big-dark.png" height="20px">
-        <a href="https://github.com/dee-shar/minecraft_rating.cs"> minecraft_rating.cs </a> </td>
+        <a href="https://github.com/dee-shar/MinecraftRating.cs"> MinecraftRating.cs </a> </td>
       <td>
         <img src="https://mcstatus.io/img/icon.png" height="20px">
-        <a href="https://github.com/dee-shar/mc_status.cs"> mc_status.cs </a> </td>
+        <a href="https://github.com/dee-shar/McStatus.cs"> McStatus.cs </a> </td>
+      <td>
+        <img src="https://github.com/dee-shar/anixart.py/assets/77536370/9f21ad57-ae49-4ab9-aef1-7d672b9c1005" height="20px">
+        <a href="https://github.com/dee-shar/BedrockInfo.cs"> BedrockInfo.cs </a> </td>
+      <td>
+        <img src="https://pbs.twimg.com/profile_images/378800000150331168/5348fa4ca72d96dcd19471084a45b7aa_400x400.jpeg" height="20px">
+        <a href="https://github.com/dee-shar/FuckOfAsAService.cs"> FuckOfAsAService.cs </a> </td>
+      <td>
+        <img src="https://adresse.data.gouv.fr/_next/static/media/favicon.f453a8cf.svg" height="20px">
+        <a href="https://github.com/dee-shar/FrenchAddressSearch.cs"> FrenchAddressSearch.cs </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://groundhog-day.com/images/logo.png" height="20px">
+        <a href="https://github.com/dee-shar/GroundHogDay.cs"> GroundHogDay.cs </a> </td>
+      <td>
+        <img src="https://fastfoxvpn.com/img/flogo.svg" height="20px">
+        <a href="https://github.com/dee-shar/FastFoxVpn.cs"> FastFoxVpn.cs </a> </td>
+      <td>
+        <img src="https://rewardsvpn.com/vpnadmin/assets/img/reward.svg" height="20px">
+        <a href="https://github.com/dee-shar/RewardVpn.cs"> RewardVpn.cs </a> </td>
+      <td>
+        <img src="https://turbotrackvpn.com/img/logo.svg" height="20px">
+        <a href="https://github.com/dee-shar/TurboTrackVpn.cs"> TurboTrackVpn.cs </a> </td>
+      <td>
+        <img src="https://cdn.writeas.net/img/writeas-logo.svg" height="20px">
+        <a href="https://github.com/dee-shar/WriteAs.cs"> WriteAs.cs </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://play-lh.googleusercontent.com/EDAzf9nQr0LYgdlLnRY5zOLiKVNo3WkdyDgkSBabd4TXMfKEhvwFwWqbH7BhiTDEOLQ=w240-h480-rw" height="20px">
+        <a href="https://github.com/dee-shar/HapiVpn.cs"> HapiVpn.cs </a> </td>
+      <td>
+        <img src="https://bbvpn.avdev.site/assets/images/logo.svg" height="20px">
+        <a href="https://github.com/dee-shar/BbVpn.cs"> BbVpn.cs </a> </td>
+      <td>
+        <img src="https://play-lh.googleusercontent.com/5r5QCHreImfwdTHqZC3ISIbFMcMoZpwhRYMxnv7kEAfWwM6s2xN1cGc9DA9k1bYURA=w240-h480-rw" height="20px">
+        <a href="https://github.com/dee-shar/SolarDVpn.cs"> SolarDVpn.cs </a> </td>
+      <td>
+        <img src="https://notvpn.io/public/img/logo.svg" height="20px">
+        <a href="https://github.com/dee-shar/NotVpn.cs"> NotVpn.cs </a> </td>
+      <td>
+        <img src="https://www.funnylabz.com/images/apps/funnyinsults.png" height="20px">
+        <a href="https://github.com/dee-shar/FunnyInsults.cs"> FunnyInsults.cs </a> </td>
     </tr>
   </table>
   <div align="center">
