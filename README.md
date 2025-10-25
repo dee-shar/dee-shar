@@ -141,13 +141,13 @@
         <img src="https://groundhog-day.com/images/logo.png" height="20px">
         <a href="https://github.com/dee-shar/GroundHogDay.cs"> GroundHogDay.cs </a> </td>
       <td>
-        <img src="https://fastfoxvpn.com/img/flogo.svg" height="20px">
+        <img src="https://xdaforums.com/attachments/logo-icon-png.5938877/" height="20px">
         <a href="https://github.com/dee-shar/FastFoxVpn.cs"> FastFoxVpn.cs </a> </td>
       <td>
         <img src="https://rewardsvpn.com/vpnadmin/assets/img/reward.svg" height="20px">
         <a href="https://github.com/dee-shar/RewardVpn.cs"> RewardVpn.cs </a> </td>
       <td>
-        <img src="https://turbotrackvpn.com/img/logo.svg" height="20px">
+        <img src="https://cdn.aptoide.com/imgs/4/7/e/47e1dc0b0de8e13ad0b1a447876b7fcf_icon.png?w=128" height="20px">
         <a href="https://github.com/dee-shar/TurboTrackVpn.cs"> TurboTrackVpn.cs </a> </td>
       <td>
         <img src="https://cdn.writeas.net/img/writeas-logo.svg" height="20px">
