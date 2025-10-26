@@ -118,7 +118,7 @@
         <a href="https://github.com/dee-shar/logo_types.js"> logo_types.js </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/javascript.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">C# - 15</th> </tr>
+    <tr> <th colspan="5">C# - 25</th> </tr>
     <tr>
       <td>
         <img src="https://minecraftrating.ru/images/logo-big-dark.png" height="20px">
@@ -169,6 +169,40 @@
       <td>
         <img src="https://www.funnylabz.com/images/apps/funnyinsults.png" height="20px">
         <a href="https://github.com/dee-shar/FunnyInsults.cs"> FunnyInsults.cs </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/dee-shar/dee-shar/assets/77536370/6d5fc2c5-94f8-4103-a380-eaf8cc7a1840" height="20px">
+        <a href="https://github.com/dee-shar/AdGuardVpn.cs"> AdGuardVpn.cs </a> </td>
+      <td>
+        <img src="https://github.com/dee-shar/anixart.py/assets/77536370/496634ca-0a99-400c-ad2e-e16738f475dd" height="20px">
+        <a href="https://github.com/dee-shar/SevenVpn.cs"> SevenVpn.cs </a> </td>
+      <td>
+        <img src="https://github.com/dee-shar/anixart.py/assets/77536370/299f05aa-bca5-406d-b234-c7adcf32a72c" height="20px">
+        <a href="https://github.com/dee-shar/SurfSharkVpn.cs"> SurfSharkVpn.cs </a> </td>
+      <td>
+        <img src="https://www.geojs.io/img/logo.png" height="20px">
+        <a href="https://github.com/dee-shar/GeoJs.cs"> GeoJs.cs </a> </td>
+      <td>
+        <img src="https://play-lh.googleusercontent.com/6qNNvf0WOFgyd0tJLWKeOxKD9sZEm8aJXT25UjERgYXKE-tVXpf4YXkQhDAE6BG6hgg=w240-h480-rw" height="20px">
+        <a href="https://github.com/dee-shar/F1RocketsVpn.cs"> F1RocketsVpn.cs </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/dee-shar/email_fake.sh/assets/77536370/8aba9bcd-9e83-4be2-8bed-08552618d305" height="20px">
+        <a href="https://github.com/dee-shar/EmailFake.cs"> EmailFake.cs </a> </td>
+      <td>
+        <img src="https://burnermail.io/assets/burnermail_logo_black-79be860f9b3db7a99487a5b412080eee8778f56a679e726a78071c6c6af44c1e.svg" height="20px">
+        <a href="https://github.com/dee-shar/BurnerMail.cs"> BurnerMail.cs </a> </td>
+      <td>
+        <img src="https://yagla.ru/favicons/apple-touch-icon.png" height="20px">
+        <a href="https://github.com/dee-shar/Yagla.cs"> Yagla.cs </a> </td>
+      <td>
+        <img src="https://workingvpn.com/assets/website/img/favicon.ico" height="20px">
+        <a href="https://github.com/dee-shar/WorkingVpn.cs"> WorkingVpn.cs </a> </td>
+      <td>
+        <img src="https://vpnly.com/wp-content/themes/vpnly/assets/images/logo.svg" height="20px">
+        <a href="https://github.com/dee-shar/Vpnly.cs"> Vpnly.cs </a> </td>
     </tr>
   </table>
   <div align="center">
