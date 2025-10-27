@@ -46,7 +46,7 @@
         <a href="https://github.com/dee-shar/one_h_one_online.py"> one_h_one_online.py </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/python.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">Bash - 150</th> </tr>
+    <tr> <th colspan="5">Bash - 100</th> </tr>
     <tr>
       <td>
         <img src="https://crime-mobile.net/favicon.svg" height="20px">
@@ -118,7 +118,7 @@
         <a href="https://github.com/dee-shar/logo_types.js"> logo_types.js </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/javascript.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">C# - 35</th> </tr>
+    <tr> <th colspan="5">C# - 50</th> </tr>
     <tr>
       <td>
         <img src="https://minecraftrating.ru/images/logo-big-dark.png" height="20px">
@@ -236,6 +236,56 @@
       <td>
         <img src="https://smailpro.com/img/smailpro.com/apple-touch-icon.png" height="20px">
         <a href="https://github.com/dee-shar/SmailPro.cs"> SmailPro.cs </a> </td>
+    </tr> <tr>
+      <td>
+        <img src="https://twi.kz/icons/apple-touch-icon.png" height="20px">
+        <a href="https://github.com/dee-shar/TwiKz.cs"> TwiKz.cs </a> </td>
+      <td>
+        <img src="https://tmailor.com/img/Logo.png" height="20px">
+        <a href="https://github.com/dee-shar/TMailor.cs"> TMailor.cs </a> </td>
+      <td>
+        <img src="https://anonymmail.net/assets/img/logo.png" height="20px">
+        <a href="https://github.com/dee-shar/AnonymMail.cs"> AnonymMail.cs </a> </td>
+      <td>
+        <img src="https://github.com/dee-shar/harakiri_mail.sh/assets/77536370/11c8368a-107a-4ce0-b536-cce3ee7a6ffe" height="20px">
+        <a href="https://github.com/dee-shar/HarakiriMail.cs"> HarakiriMail.cs </a> </td>
+      <td>
+        <img src="https://whoer.net/favicon.png" height="20px">
+        <a href="https://github.com/dee-shar/WhoerVpn.cs"> WhoerVpn.cs </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://play-lh.googleusercontent.com/2cWDOTesMgD0C9G2Xj0ix8jEAt0bJsCX6t7STHb7fS4qhN-NjxRTeS0uQ9n7z0XpXA=w480-h960-rw" height="20px">
+        <a href="https://github.com/dee-shar/SandVpn.cs"> SandVpn.cs </a> </td>
+      <td>
+        <img src="https://waa.ai/img/avatars/akari.jpg" height="20px">
+        <a href="https://github.com/dee-shar/AkariLinkShortener.cs"> AkariLinkShortener.cs </a> </td>
+      <td>
+        <img src="https://www.myip.com/img/myip.png" height="20px">
+        <a href="https://github.com/dee-shar/MyIp.cs"> MyIp.cs </a> </td>
+      <td>
+        <img src="https://github.com/dee-shar/ip_api.sh/assets/77536370/883266af-757e-4126-a05c-91791bf7af12" height="20px">
+        <a href="https://github.com/dee-shar/ExtremeIpLookup.cs"> ExtremeIpLookup.cs </a> </td>
+      <td>
+        <img src="https://ip-api.com/docs/static/logo.png" height="20px">
+        <a href="https://github.com/dee-shar/IpApi.cs"> IpApi.cs </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://static.ipgeolocation.io/web-assets/images/ipgeo-logo-landscape.svg" height="20px">
+        <a href="https://github.com/dee-shar/IPGeoLocation.cs"> IPGeoLocation.cs </a> </td>
+      <td>
+        <img src="https://cdn.ip2location.io/assets/img/logo-sm.png" height="20px">
+        <a href="https://github.com/dee-shar/IP2Location.cs"> IP2Location.cs </a> </td>
+      <td>
+        <img src="https://geo.ipify.org/images/ipgeolocation/logo.png?v=2" height="20px">
+        <a href="https://github.com/dee-shar/IPify.cs"> IPify.cs </a> </td>
+      <td>
+        <img src="https://website-cdn.ipinfo.io/_next/static/media/logo-positive.0a4ba892.svg" height="20px">
+        <a href="https://github.com/dee-shar/IpInfo.cs"> IpInfo.cs </a> </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/5e6f06c2-9fb8-4ba3-b425-4bd06c739eb8" height="20px">
+        <a href="https://github.com/dee-shar/FindIP.cs"> FindIP.cs </a> </td>
     </tr>
   </table>
   <div align="center">
