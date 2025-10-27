@@ -1,7 +1,10 @@
 <body>
   <div align="center">
-    <h2> About </h2>
-    I don't think that I am an interesting person so can't say nothing.
+    
+
+https://github.com/user-attachments/assets/c878e462-31c8-413c-8f2f-b408e9bf4088
+
+
   </div>
   <div align="center">
     <h2> Skills </h2>
