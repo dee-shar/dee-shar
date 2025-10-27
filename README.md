@@ -118,7 +118,7 @@
         <a href="https://github.com/dee-shar/logo_types.js"> logo_types.js </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/javascript.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">C# - 25</th> </tr>
+    <tr> <th colspan="5">C# - 35</th> </tr>
     <tr>
       <td>
         <img src="https://minecraftrating.ru/images/logo-big-dark.png" height="20px">
@@ -203,6 +203,39 @@
       <td>
         <img src="https://vpnly.com/wp-content/themes/vpnly/assets/images/logo.svg" height="20px">
         <a href="https://github.com/dee-shar/Vpnly.cs"> Vpnly.cs </a> </td>
+    </tr><tr>
+      <td>
+        <img src="https://uvpn.me/wp-content/themes/uvpn2020/images/white-logo-with-text-2021.svg" height="20px">
+        <a href="https://github.com/dee-shar/UVpn.cs"> UVpn.cs </a> </td>
+      <td>
+        <img src="https://quicksilvervpn.com/img/logo.svg" height="20px">
+        <a href="https://github.com/dee-shar/QuickSilverVpn.cs"> QuickSilverVpn.cs </a> </td>
+      <td>
+        <img src="https://play-lh.googleusercontent.com/IZQj8bAL7ceRCXueKh6gP3Gl-Z7Bb9lPS584dpTrX6HwOCHXmBwUg2OKCZLBsrl7VtA=w240-h480-rw" height="20px">
+        <a href="https://github.com/dee-shar/RapidVpn.cs"> RapidVpn.cs </a> </td>
+      <td>
+        <img src="https://goosevpn.com/wp-content/themes/goosevpn/dist/goosevpn-logo.png.webp" height="20px">
+        <a href="https://github.com/dee-shar/GooseVpn.cs"> GooseVpn.cs </a> </td>
+      <td>
+        <img src="https://argus-vpn.com/favicons/apple-touch-icon.png" height="20px">
+        <a href="https://github.com/dee-shar/ArgusVpn.cs"> ArgusVpn.cs </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://guruvpn.com/nav-logo.svg" height="20px">
+        <a href="https://github.com/dee-shar/GuruVpn.cs"> GuruVpn.cs </a> </td>
+      <td>
+        <img src="https://blokada.org/img/brand/white.png" height="20px">
+        <a href="https://github.com/dee-shar/Blokada.cs"> Blokada.cs </a> </td>
+      <td>
+        <img src="https://www.cloudbric.com/wp-content/uploads/2020/05/logo_header_bk.png" height="20px">
+        <a href="https://github.com/dee-shar/CloudBricVpn.cs"> CloudBricVpn.cs </a> </td>
+      <td>
+        <img src="https://www.clashofstats.com/_nuxt/img/logo-home-blue-grey.7bfaabf.png" height="20px">
+        <a href="https://github.com/dee-shar/ClashOfStats.cs"> ClashOfStats.cs </a> </td>
+      <td>
+        <img src="https://smailpro.com/img/smailpro.com/apple-touch-icon.png" height="20px">
+        <a href="https://github.com/dee-shar/SmailPro.cs"> SmailPro.cs </a> </td>
     </tr>
   </table>
   <div align="center">
