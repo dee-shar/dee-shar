@@ -1,21 +1,4 @@
 <body>
-  <table>
-    <tr>
-      <th></th>
-      <th></th>
-    </tr>
-    <tr><td>
-
-https://github.com/user-attachments/assets/b8548144-690d-4357-92f6-45c3e0fbb938
-
- </td>
- <td> 
-
-https://github.com/user-attachments/assets/e5e5f992-4f6c-40f6-9cb3-5d787dcf10c8
-
-</td>
-</tr>
-  </table>
   <div align="center">
     <h2> Skills </h2>
     <img src="https://skillicons.dev/icons?i=python,javascript,bash,c,html,css,php,markdown,ruby,tailwind,cs&perline=4">
