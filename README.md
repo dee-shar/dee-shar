@@ -1,11 +1,9 @@
 <body>
   <div align="center">
-    
 
-https://github.com/user-attachments/assets/c878e462-31c8-413c-8f2f-b408e9bf4088
+https://github.com/user-attachments/assets/7887f096-d74b-4826-899d-96744874aad6
 
-
-  </div>
+</div>
   <div align="center">
     <h2> Skills </h2>
     <img src="https://skillicons.dev/icons?i=python,javascript,bash,c,html,css,php,markdown,ruby,tailwind,cs&perline=4">
@@ -190,7 +188,7 @@ https://github.com/user-attachments/assets/c878e462-31c8-413c-8f2f-b408e9bf4088
         <img src="https://play-lh.googleusercontent.com/6qNNvf0WOFgyd0tJLWKeOxKD9sZEm8aJXT25UjERgYXKE-tVXpf4YXkQhDAE6BG6hgg=w240-h480-rw" height="20px">
         <a href="https://github.com/dee-shar/F1RocketsVpn.cs"> F1RocketsVpn.cs </a> </td>
     </tr>
-    <tr>
+    N <tr>
       <td>
         <img src="https://github.com/dee-shar/email_fake.sh/assets/77536370/8aba9bcd-9e83-4be2-8bed-08552618d305" height="20px">
         <a href="https://github.com/dee-shar/EmailFake.cs"> EmailFake.cs </a> </td>
