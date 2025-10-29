@@ -1,7 +1,7 @@
 <body>
   <div align="center">
     <h2> Skill <h2>
-    <img src="https://skillicons.dev/icons?i=python,javascript,bash,c,html,css,php,markdown,ruby,tailwind,cs&perline=4">
+    <img src="https://skillicons.dev/icons?i=python,javascript,bash,c,html,css,php,markdown,ruby,tailwind,cs,dart&perline=4">
   </div>
   <div>
   <table>
