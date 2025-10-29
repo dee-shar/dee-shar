@@ -114,7 +114,7 @@
         <a href="https://github.com/dee-shar/logo_types.js"> logo_types.js </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/javascript.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">C# - 50</th> </tr>
+    <tr> <th colspan="5">C# - 55</th> </tr>
     <tr>
       <td>
         <img src="https://minecraftrating.ru/images/logo-big-dark.png" height="20px">
@@ -283,6 +283,23 @@
       <td>
         <img src="https://github.com/user-attachments/assets/5e6f06c2-9fb8-4ba3-b425-4bd06c739eb8" height="20px">
         <a href="https://github.com/dee-shar/FindIP.cs"> FindIP.cs </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://www.opendota.com/assets/images/logo.png" height="20px">
+        <a href="https://github.com/dee-shar/OpenDota.cs"> OpenDota.cs </a> </td>
+      <td>
+        <img src="https://kyodo.app/favicon.png" height="20px">
+        <a href="https://github.com/dee-shar/Kyodo.cs"> Kyodo.cs </a> </td>
+      <td>
+        <img src="https://gamic.app/images/gamic-logo-with-name.svg" height="20px">
+        <a href="https://github.com/dee-shar/Gamic.cs"> Gamic.cs </a> </td>
+      <td>
+        <img src="https://artfol.app/image/apple-touch-icon.png" height="20px">
+        <a href="https://github.com/dee-shar/Artfol.cs"> Artfol.cs </a> </td>
+      <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Tapas-logo.png" height="20px">
+        <a href="https://github.com/dee-shar/Tapas.cs"> Tapas.cs </a> </td>
     </tr>
   </table>
   <div align="center">
