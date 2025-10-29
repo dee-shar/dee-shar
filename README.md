@@ -303,7 +303,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://matreshkavpn.com/logo_big.svg" height="20px">
+        <img src="https://github.com/user-attachments/assets/83f76850-20f5-4d07-ba16-f5bca0302f69" height="20px">
         <a href="https://github.com/dee-shar/MatreshkaVpn.cs"> MatreshkaVpn.cs </a> </td>
       <td>
     </tr>
