@@ -309,7 +309,7 @@
   </table>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=dee-shar&theme=github_dark&show_icons=true&hide_border=true&count_private=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dee-shar&theme=github-dark&hide_border=true"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dee-shar&theme=github-dark-blue&hide_border=true"> 
   </div>
   </div>
 </body>
