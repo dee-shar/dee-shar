@@ -114,7 +114,7 @@
         <a href="https://github.com/dee-shar/logo_types.js"> logo_types.js </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/javascript.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">C# - 56</th> </tr>
+    <tr> <th colspan="5">C# - 60</th> </tr>
     <tr>
       <td>
         <img src="https://minecraftrating.ru/images/logo-big-dark.png" height="20px">
@@ -305,6 +305,18 @@
       <td>
         <img src="https://github.com/user-attachments/assets/83f76850-20f5-4d07-ba16-f5bca0302f69" height="20px">
         <a href="https://github.com/dee-shar/MatreshkaVpn.cs"> MatreshkaVpn.cs </a> </td>
+      <td>
+        <img src="https://hitmeup.social/flavo_icon.png" height="20px">
+        <a href="https://github.com/dee-shar/Hmu.cs"> Hmu.cs </a> </td>
+      <td>
+        <img src="https://www.poetizer.com/images/poetizer-logo.svg" height="20px">
+        <a href="https://github.com/dee-shar/Poetizer.cs"> Poetizer.cs </a> </td>
+      <td>
+        <img src="https://www.nyxnyxnyx.com/favicon/apple-touch-icon.png" height="20px">
+        <a href="https://github.com/dee-shar/NyxNyxNyx.cs"> NyxNyxNyx.cs </a> </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/2ae412fd-0b5c-4a37-923d-ce3cd16769a2" height="20px">
+        <a href="https://github.com/dee-shar/Civic.cs"> Civic.cs </a> </td>
     </tr>
   </table>
   <div align="center">
