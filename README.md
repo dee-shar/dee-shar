@@ -114,7 +114,7 @@
         <a href="https://github.com/dee-shar/logo_types.js"> logo_types.js </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/javascript.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">C# - 65</th> </tr>
+    <tr> <th colspan="5">C# - 70</th> </tr>
     <tr>
       <td>
         <img src="https://minecraftrating.ru/images/logo-big-dark.png" height="20px">
@@ -318,7 +318,7 @@
         <img src="https://github.com/user-attachments/assets/2ae412fd-0b5c-4a37-923d-ce3cd16769a2" height="20px">
         <a href="https://github.com/dee-shar/Civic.cs"> Civic.cs </a> </td>
     </tr>
-        <tr>
+    <tr>
       <td>
         <img src="https://colormagic.app/img/HorizontalLogo.svg" height="20px">
         <a href="https://github.com/dee-shar/ColorMagic.cs"> ColorMagic.cs </a> </td>
@@ -334,6 +334,23 @@
       <td>
         <img src="https://jokefather.com/favicon.ico" height="20px">
         <a href="https://github.com/dee-shar/JokeFather.cs"> JokeFather.cs </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://quoterism.com/assets/images/logo.png" height="20px">
+        <a href="https://github.com/dee-shar/Quoterism.cs "> Quoterism.cs  </a> </td>
+      <td>
+        <img src="https://ipquery.io/apple-touch-icon.png" height="20px">
+        <a href="https://github.com/dee-shar/IpQuery.cs"> IpQuery.cs </a> </td>
+      <td>
+        <img src="https://remoteok.com/assets/logo-square.png" height="20px">
+        <a href="https://github.com/dee-shar/RemoteOk.cs"> RemoteOk.cs </a> </td>
+      <td>
+        <img src="https://fakestoreapi.com/icons/logo.png" height="20px">
+        <a href="https://github.com/dee-shar/FakeStore.cs"> FakeStore.cs  </a> </td>
+      <td>
+        <img src="https://www.demonslayer-api.com/favicon.ico" height="20px">
+        <a href="https://github.com/dee-shar/DemonSlayerApi.cs"> DemonSlayerApi.cs </a> </td>
     </tr>
   </table>
   <div align="center">
