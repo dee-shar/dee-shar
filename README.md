@@ -114,7 +114,7 @@
         <a href="https://github.com/dee-shar/logo_types.js"> logo_types.js </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/javascript.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">C# - 60</th> </tr>
+    <tr> <th colspan="5">C# - 65</th> </tr>
     <tr>
       <td>
         <img src="https://minecraftrating.ru/images/logo-big-dark.png" height="20px">
@@ -317,6 +317,23 @@
       <td>
         <img src="https://github.com/user-attachments/assets/2ae412fd-0b5c-4a37-923d-ce3cd16769a2" height="20px">
         <a href="https://github.com/dee-shar/Civic.cs"> Civic.cs </a> </td>
+    </tr>
+        <tr>
+      <td>
+        <img src="https://colormagic.app/img/HorizontalLogo.svg" height="20px">
+        <a href="https://github.com/dee-shar/ColorMagic.cs"> ColorMagic.cs </a> </td>
+      <td>
+        <img src="https://web.dragonball-api.com/images-compress/android-icon-192x192.webp" height="20px">
+        <a href="https://github.com/dee-shar/DragonBallApi.cs"> DragonBallApi.cs </a> </td>
+      <td>
+        <img src="https://f1api.dev/_next/image?url=%2Flogo.avif&w=640&q=75" height="20px">
+        <a href="https://github.com/dee-shar/F1Api.cs"> F1Api.cs </a> </td>
+      <td>
+        <img src="https://indian-quotes-api.vercel.app/icon.svg?256d3e17b8715854" height="20px">
+        <a href="https://github.com/dee-shar/IndianQuotes.cs"> IndianQuotes.cs </a> </td>
+      <td>
+        <img src="https://jokefather.com/favicon.ico" height="20px">
+        <a href="https://github.com/dee-shar/JokeFather.cs"> JokeFather.cs </a> </td>
     </tr>
   </table>
   <div align="center">
