@@ -114,7 +114,7 @@
         <a href="https://github.com/dee-shar/logo_types.js"> logo_types.js </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/javascript.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">C# - 80</th> </tr>
+    <tr> <th colspan="5">C# - 85</th> </tr>
     <tr>
       <td>
         <img src="https://minecraftrating.ru/images/logo-big-dark.png" height="20px">
@@ -385,6 +385,23 @@
       <td>
         <img src="https://shadify.yurace.pro/favicon.png" height="20px">
         <a href="https://github.com/dee-shar/Shadify.cs"> Shadify.cs </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://picsum.photos/assets/images/favicon/favicon-32x32.png" height="20px">
+        <a href="https://github.com/dee-shar/LoremPicsum.cs"> LoremPicsum.cs </a> </td>
+      <td>
+        <img src="https://isevenapi.xyz/apple-touch-icon.png?v=jwEbQRMQyE" height="20px">
+        <a href="https://github.com/dee-shar/IsEven.cs"> IsEven.cs </a> </td>
+      <td>
+        <img src="https://attackontitanquotes.vercel.app/images/logo.png" height="20px">
+        <a href="https://github.com/dee-shar/AotQuotes.cs"> AotQuotes.cs </a> </td>
+      <td>
+        <img src="https://aes.shenlu.me/logo.svg" height="20px">
+        <a href="https://github.com/dee-shar/AmazingEndemicSpecies.cs"> AmazingEndemicSpecies.cs  </a> </td>
+      <td>
+        <img src="https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg?v=2" height="20px">
+        <a href="https://github.com/dee-shar/PenguinRandomHouse.cs"> PenguinRandomHouse.cs </a> </td>
     </tr>
   </table>
   <div align="center">
