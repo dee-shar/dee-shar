@@ -114,7 +114,7 @@
         <a href="https://github.com/dee-shar/logo_types.js"> logo_types.js </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/javascript.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">C# - 95</th> </tr>
+    <tr> <th colspan="5">C# - 100</th> </tr>
     <tr>
       <td>
         <img src="https://minecraftrating.ru/images/logo-big-dark.png" height="20px">
@@ -436,6 +436,23 @@
       <td>
         <img src="https://shrekofficial.com/public/icon.png" height="20px">
         <a href="https://github.com/dee-shar/ShRest.cs"> ShRest.cs </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://potterdb.com/images/logo.svg" height="20px">
+        <a href="https://github.com/dee-shar/PotterDb.cs"> PotterDb.cs </a> </td>
+      <td>
+        <img src="https://geokeo.com/icon.png" height="20px">
+        <a href="https://github.com/dee-shar/GeoKeo.cs"> GeoKeo.cs </a> </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/e2f82f33-db3b-4b33-a84a-f738b4c086bd" height="20px">
+        <a href="https://github.com/dee-shar/ValorantEsports.cs"> ValorantEsports.cs </a> </td>
+      <td>
+        <img src="https://pth.bz/apple-touch-icon.png" height="20px">
+        <a href="https://github.com/dee-shar/PthBz.cs"> PthBz.cs </a> </td>
+      <td>
+        <img src="https://color.serialif.com/images/favicon.png" height="20px">
+        <a href="https://github.com/dee-shar/SerialifColor.cs"> SerialifColor.cs </a> </td>
     </tr>
   </table>
   <div align="center">
