@@ -114,7 +114,7 @@
         <a href="https://github.com/dee-shar/logo_types.js"> logo_types.js </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/javascript.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">C# - 75</th> </tr>
+    <tr> <th colspan="5">C# - 80</th> </tr>
     <tr>
       <td>
         <img src="https://minecraftrating.ru/images/logo-big-dark.png" height="20px">
@@ -368,6 +368,23 @@
       <td>
         <img src="https://www.spaceflightnewsapi.net/img/SNAPI_logo.png" height="20px">
         <a href="https://github.com/dee-shar/SpaceFlightNews.cs"> SpaceFlightNews.cs </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://publicapi.dev/images/logos/techy-api.vercel.app.png" height="20px">
+        <a href="https://github.com/dee-shar/Techy.cs"> Techy.cs </a> </td>
+      <td>
+        <img src="https://api-blue-archive.vercel.app/arona.ico" height="20px">
+        <a href="https://github.com/dee-shar/BlueArchive.cs"> BlueArchive.cs </a> </td>
+      <td>
+        <img src="https://static.wolnelektury.pl/2022/images/logo.aefe561106b6.svg" height="20px">
+        <a href="https://github.com/dee-shar/Wolnelektury.cs"> Wolnelektury.cs </a> </td>
+      <td>
+        <img src="https://24pullrequests.com/assets/apple-touch-icon-144x144-precomposed-0e748d39ab6171625ffaba26583ebc2a57b1b1e483cd769586f39309e73ff892.png" height="20px">
+        <a href="https://github.com/dee-shar/TwentyFourPullRequests.cs"> TwentyFourPullRequests.cs  </a> </td>
+      <td>
+        <img src="https://shadify.yurace.pro/favicon.png" height="20px">
+        <a href="https://github.com/dee-shar/Shadify.cs"> Shadify.cs </a> </td>
     </tr>
   </table>
   <div align="center">
