@@ -114,7 +114,7 @@
         <a href="https://github.com/dee-shar/logo_types.js"> logo_types.js </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/javascript.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">C# - 90</th> </tr>
+    <tr> <th colspan="5">C# - 95</th> </tr>
     <tr>
       <td>
         <img src="https://minecraftrating.ru/images/logo-big-dark.png" height="20px">
@@ -419,6 +419,23 @@
       <td>
         <img src="https://stefanbohacek.com/wp-content/themes/fourtonfish/images/favicons/apple-touch-icon.png" height="20px">
         <a href="https://github.com/dee-shar/HelloSalut.cs"> HelloSalut.cs </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://ok.surf/static/apple-icon-180x180.png" height="20px">
+        <a href="https://github.com/dee-shar/OkSurf.cs"> OkSurf.cs </a> </td>
+      <td>
+        <img src="https://softwium.com/wp-content/uploads/2023/11/cropped-android-chrome-192x192-1-192x192.png" height="20px">
+        <a href="https://github.com/dee-shar/Softwium.cs"> Softwium.cs </a> </td>
+      <td>
+        <img src="https://lorem-api.com/_next/static/logo.png" height="20px">
+        <a href="https://github.com/dee-shar/Lorem.cs"> Lorem.cs </a> </td>
+      <td>
+        <img src="https://urlfy.org/static/apple-touch-icon.png" height="20px">
+        <a href="https://github.com/dee-shar/Urlfy.cs"> Urlfy.cs </a> </td>
+      <td>
+        <img src="https://shrekofficial.com/public/icon.png" height="20px">
+        <a href="https://github.com/dee-shar/ShRest.cs"> ShRest.cs </a> </td>
     </tr>
   </table>
   <div align="center">
