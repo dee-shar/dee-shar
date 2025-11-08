@@ -114,7 +114,7 @@
         <a href="https://github.com/dee-shar/logo_types.js"> logo_types.js </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/javascript.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">C# - 85</th> </tr>
+    <tr> <th colspan="5">C# - 90</th> </tr>
     <tr>
       <td>
         <img src="https://minecraftrating.ru/images/logo-big-dark.png" height="20px">
@@ -402,6 +402,23 @@
       <td>
         <img src="https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg?v=2" height="20px">
         <a href="https://github.com/dee-shar/PenguinRandomHouse.cs"> PenguinRandomHouse.cs </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://aruljohn.com/favicon.ico" height="20px">
+        <a href="https://github.com/dee-shar/ArulJohn.cs"> ArulJohn.cs </a> </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/42bc7a18-511f-4b47-8287-06697ed82b4d" height="20px">
+        <a href="https://github.com/dee-shar/NationNode.cs"> NationNode.cs </a> </td>
+      <td>
+        <img src="https://razorpay.com/favicon.png" height="20px">
+        <a href="https://github.com/dee-shar/RazorPayIfsc.cs"> RazorPayIfsc.cs </a> </td>
+      <td>
+        <img src="https://scoresaber.com/images/logo.svg" height="20px">
+        <a href="https://github.com/dee-shar/ScoreSaber.cs"> ScoreSaber.cs  </a> </td>
+      <td>
+        <img src="https://stefanbohacek.com/wp-content/themes/fourtonfish/images/favicons/apple-touch-icon.png" height="20px">
+        <a href="https://github.com/dee-shar/HelloSalut.cs"> HelloSalut.cs </a> </td>
     </tr>
   </table>
   <div align="center">
