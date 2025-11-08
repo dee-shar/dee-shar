@@ -114,7 +114,7 @@
         <a href="https://github.com/dee-shar/logo_types.js"> logo_types.js </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/javascript.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">C# - 70</th> </tr>
+    <tr> <th colspan="5">C# - 75</th> </tr>
     <tr>
       <td>
         <img src="https://minecraftrating.ru/images/logo-big-dark.png" height="20px">
@@ -351,6 +351,23 @@
       <td>
         <img src="https://www.demonslayer-api.com/favicon.ico" height="20px">
         <a href="https://github.com/dee-shar/DemonSlayerApi.cs"> DemonSlayerApi.cs </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://randomuser.me/favicon.ico" height="20px">
+        <a href="https://github.com/dee-shar/RandomUser.cs "> RandomUser.cs  </a> </td>
+      <td>
+        <img src="https://www.iplocate.io/apple-touch-icon.png" height="20px">
+        <a href="https://github.com/dee-shar/IpLocate.cs"> IpLocate.cs </a> </td>
+      <td>
+        <img src="https://jobicy.com/favicon.png" height="20px">
+        <a href="https://github.com/dee-shar/Jobicy.cs"> Jobicy.cs </a> </td>
+      <td>
+        <img src="https://www.arbeitnow.com/images/logo.png" height="20px">
+        <a href="https://github.com/dee-shar/ArbeitNow.cs"> ArbeitNow.cs  </a> </td>
+      <td>
+        <img src="https://www.spaceflightnewsapi.net/img/SNAPI_logo.png" height="20px">
+        <a href="https://github.com/dee-shar/SpaceFlightNews.cs"> SpaceFlightNews.cs </a> </td>
     </tr>
   </table>
   <div align="center">
