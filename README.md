@@ -150,6 +150,12 @@
         <a href="https://github.com/dee-shar/WriteAs.cs"> WriteAs.cs </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/c-sharp.md"> Continue</a></th> </tr>
+    <tr> <th colspan="5">Crystal - 1</th> </tr>
+     <tr>
+      <td>
+        <img src="https://browserleaks.com/img/favicons/apple-touch-icon.png" height="20px">
+        <a href="https://github.com/dee-shar/browser_leaks.cr"> browser_leaks.cr </a> </td>
+    </tr>
   </table>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=dee-shar&theme=github_dark&show_icons=true&hide_border=true&count_private=true">
