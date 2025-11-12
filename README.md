@@ -150,11 +150,23 @@
         <a href="https://github.com/dee-shar/WriteAs.cs"> WriteAs.cs </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/c-sharp.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">Crystal - 1</th> </tr>
+    <tr> <th colspan="5">Crystal - 5</th> </tr>
      <tr>
       <td>
         <img src="https://browserleaks.com/img/favicons/apple-touch-icon.png" height="20px">
         <a href="https://github.com/dee-shar/browser_leaks.cr"> browser_leaks.cr </a> </td>
+      <td>
+        <img src="https://inboxes.com/_app/immutable/assets/logo.41bYvaTN.png" height="20px">
+        <a href="https://github.com/dee-shar/inboxes.cr"> inboxes.cr </a> </td>
+      <td>
+        <img src="https://fakeapi.platzi.com/_astro/icon.BNMhJCSt.png" height="20px">
+        <a href="https://github.com/dee-shar/platzi.cr"> platzi.cr </a> </td>
+      <td>
+        <img src="https://myfakeapi.com/favicon.ico" height="20px">
+        <a href="https://github.com/dee-shar/my_fake_api.cr"> my_fake_api.cr </a> </td>
+      <td>
+        <img src="https://mockrest.com/apple-touch-icon.png" height="20px">
+        <a href="https://github.com/dee-shar/mock_rest.cr"> mock_rest.cr </a> </td>
     </tr>
   </table>
   <div align="center">
