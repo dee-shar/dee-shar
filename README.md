@@ -150,7 +150,7 @@
         <a href="https://github.com/dee-shar/WriteAs.cs"> WriteAs.cs </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/c-sharp.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">Crystal - 5</th> </tr>
+    <tr> <th colspan="5">Crystal - 10</th> </tr>
      <tr>
       <td>
         <img src="https://browserleaks.com/img/favicons/apple-touch-icon.png" height="20px">
@@ -167,6 +167,23 @@
       <td>
         <img src="https://mockrest.com/apple-touch-icon.png" height="20px">
         <a href="https://github.com/dee-shar/mock_rest.cr"> mock_rest.cr </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://queue-times.com//apple-icon-180x180.png" height="20px">
+        <a href="https://github.com/dee-shar/queue_times.cr"> queue_times.cr </a> </td>
+      <td>
+        <img src="https://www.nslookup.io/img/logo.svg" height="20px">
+        <a href="https://github.com/dee-shar/ns_lookup.cr"> ns_lookup.cr </a> </td>
+      <td>
+        <img src="https://countriesnow.space/img/1.png" height="20px">
+        <a href="https://github.com/dee-shar/countries_now.cr"> countries_now.cr </a> </td>
+      <td>
+        <img src="https://thesimpsonsapi.com/logo.webp" height="20px">
+        <a href="https://github.com/dee-shar/simpsons_api.cr"> simpsons_api.cr </a> </td>
+      <td>
+        <img src="https://therosaryapi.cf/christianity.png" height="20px">
+        <a href="https://github.com/dee-shar/rosary_api.cr"> rosary_api.cr </a> </td>
     </tr>
   </table>
   <div align="center">
