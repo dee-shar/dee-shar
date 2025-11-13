@@ -150,7 +150,7 @@
         <a href="https://github.com/dee-shar/WriteAs.cs"> WriteAs.cs </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/c-sharp.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">Crystal - 10</th> </tr>
+    <tr> <th colspan="5">Crystal - 15</th> </tr>
      <tr>
       <td>
         <img src="https://browserleaks.com/img/favicons/apple-touch-icon.png" height="20px">
@@ -184,6 +184,23 @@
       <td>
         <img src="https://therosaryapi.cf/christianity.png" height="20px">
         <a href="https://github.com/dee-shar/rosary_api.cr"> rosary_api.cr </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://ai-cats.net/favicon128.png" height="20px">
+        <a href="https://github.com/dee-shar/ai_cats.cr"> ai_cats.cr </a> </td>
+      <td>
+        <img src="https://avatars.githubusercontent.com/u/929059?s=200&v=4" height="20px">
+        <a href="https://github.com/dee-shar/open_notify.cr"> open_notify.cr </a> </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/9a0047d9-ce05-4ea6-9d51-646103f40fc5" height="20px">
+        <a href="https://github.com/dee-shar/current_uv_index.cr"> current_uv_index.cr </a> </td>
+      <td>
+        <img src="https://kanjiapi.dev/favicon.png" height="20px">
+        <a href="https://github.com/dee-shar/kanji_api.cr"> kanji_api.cr </a> </td>
+      <td>
+        <img src="https://www.eightballapi.com/_next/image?url=%2Ffavicon.ico&w=64&q=75" height="20px">
+        <a href="https://github.com/dee-shar/eight_ball_api.cr"> eight_ball_api.cr </a> </td>
     </tr>
   </table>
   <div align="center">
