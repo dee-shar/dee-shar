@@ -150,7 +150,7 @@
         <a href="https://github.com/dee-shar/WriteAs.cs"> WriteAs.cs </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/c-sharp.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">Crystal - 15</th> </tr>
+    <tr> <th colspan="5">Crystal - 20</th> </tr>
      <tr>
       <td>
         <img src="https://browserleaks.com/img/favicons/apple-touch-icon.png" height="20px">
@@ -201,6 +201,23 @@
       <td>
         <img src="https://www.eightballapi.com/_next/image?url=%2Ffavicon.ico&w=64&q=75" height="20px">
         <a href="https://github.com/dee-shar/eight_ball_api.cr"> eight_ball_api.cr </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://opensky-network.org/static/osky-logo-banner.png" height="20px">
+        <a href="https://github.com/dee-shar/open_sky_network.cr"> open_sky_network.cr </a> </td>
+      <td>
+        <img src="https://nebulum.one/wp-content/uploads/2025/06/cropped-channels4_profile.jpg" height="20px">
+        <a href="https://github.com/dee-shar/nebulum.cr"> nebulum.cr </a> </td>
+      <td>
+        <img src="https://www.strictlybetter.eu/apple-touch-icon.png" height="20px">
+        <a href="https://github.com/dee-shar/strictly_better.cr"> strictly_better.cr </a> </td>
+      <td>
+        <img src="https://tarotapi.dev/static/favicon.ico" height="20px">
+        <a href="https://github.com/dee-shar/tarot_api.cr"> tarot_api.cr </a> </td>
+      <td>
+        <img src="https://www.shodan.io/static/img/favicon.png" height="20px">
+        <a href="https://github.com/dee-shar/geo_net.cr"> geo_net.cr </a> </td>
     </tr>
   </table>
   <div align="center">
