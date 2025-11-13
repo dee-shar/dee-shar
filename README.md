@@ -204,7 +204,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://opensky-network.org/static/osky-logo-banner.png" height="20px">
+        <img src="https://github.com/user-attachments/assets/2457595a-ecde-49bb-8267-0f55920dbec6" height="20px">
         <a href="https://github.com/dee-shar/open_sky_network.cr"> open_sky_network.cr </a> </td>
       <td>
         <img src="https://nebulum.one/wp-content/uploads/2025/06/cropped-channels4_profile.jpg" height="20px">
