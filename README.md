@@ -150,7 +150,7 @@
         <a href="https://github.com/dee-shar/WriteAs.cs"> WriteAs.cs </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/c-sharp.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">Crystal - 20</th> </tr>
+    <tr> <th colspan="5">Crystal - 25</th> </tr>
      <tr>
       <td>
         <img src="https://browserleaks.com/img/favicons/apple-touch-icon.png" height="20px">
@@ -218,6 +218,23 @@
       <td>
         <img src="https://www.shodan.io/static/img/favicon.png" height="20px">
         <a href="https://github.com/dee-shar/geo_net.cr"> geo_net.cr </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://scryfall.com/icon-512.png?v=e031432c9f66" height="20px">
+        <a href="https://github.com/dee-shar/scry_fall.cr"> scry_fall.cr </a> </td>
+      <td>
+        <img src="https://truthordarebot.xyz/icon-192x192.png" height="20px">
+        <a href="https://github.com/dee-shar/truth_or_dare.cr"> truth_or_dare.cr </a> </td>
+      <td>
+        <img src="https://set.world/favicon-32x32.png" height="20px">
+        <a href="https://github.com/dee-shar/set_world.cr"> set_world.cr </a> </td>
+      <td>
+        <img src="https://teehee.dev/ogcard.jpg" height="20px">
+        <a href="https://github.com/dee-shar/teehee_joke.cr"> teehee_joke.cr </a> </td>
+      <td>
+        <img src="https://koreanjson.com/img/apple-touch-icon.png" height="20px">
+        <a href="https://github.com/dee-shar/korean_json.cr"> korean_json.cr </a> </td>
     </tr>
   </table>
   <div align="center">
