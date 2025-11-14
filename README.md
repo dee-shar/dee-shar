@@ -150,7 +150,7 @@
         <a href="https://github.com/dee-shar/WriteAs.cs"> WriteAs.cs </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/c-sharp.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">Crystal - 25</th> </tr>
+    <tr> <th colspan="5">Crystal - 30</th> </tr>
      <tr>
       <td>
         <img src="https://browserleaks.com/img/favicons/apple-touch-icon.png" height="20px">
@@ -235,6 +235,23 @@
       <td>
         <img src="https://koreanjson.com/img/apple-touch-icon.png" height="20px">
         <a href="https://github.com/dee-shar/korean_json.cr"> korean_json.cr </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://throwaway.cloud/assets/favicon.ico" height="20px">
+        <a href="https://github.com/dee-shar/throw_away_cloud.cr"> throw_away_cloud.cr </a> </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/6364d06f-21db-4497-9905-c8fece1fa263" height="20px">
+        <a href="https://github.com/dee-shar/no_as_a_service.cr"> no_as_a_service.cr </a> </td>
+      <td>
+        <img src="https://perl.is/perlis512.png" height="20px">
+        <a href="https://github.com/dee-shar/perl_is.cr"> perl_is.cr </a> </td>
+      <td>
+        <img src="https://kk-advice.koyeb.app/static/icon/icon-192.png" height="20px">
+        <a href="https://github.com/dee-shar/kevin_kellys_advice.cr"> kevin_kellys_advice.cr </a> </td>
+      <td>
+        <img src="https://www.freepublicapis.com/favicon.ico" height="20px">
+        <a href="https://github.com/dee-shar/free_public_apis.cr"> free_public_apis.cr </a> </td>
     </tr>
   </table>
   <div align="center">
