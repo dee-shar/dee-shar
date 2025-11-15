@@ -150,7 +150,7 @@
         <a href="https://github.com/dee-shar/WriteAs.cs"> WriteAs.cs </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/c-sharp.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">Crystal - 30</th> </tr>
+    <tr> <th colspan="5">Crystal - 35</th> </tr>
      <tr>
       <td>
         <img src="https://browserleaks.com/img/favicons/apple-touch-icon.png" height="20px">
@@ -252,6 +252,23 @@
       <td>
         <img src="https://www.freepublicapis.com/favicon.ico" height="20px">
         <a href="https://github.com/dee-shar/free_public_apis.cr"> free_public_apis.cr </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/ca76068d-a854-4afe-a74c-ce0a82097903" height="20px">
+        <a href="https://github.com/dee-shar/emoji_hub.cr"> emoji_hub.cr </a> </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/satyawikananda/berita-indo-api/refs/heads/main/src/app/favicon.ico" height="20px">
+        <a href="https://github.com/dee-shar/berita_indo_api.cr"> berita_indo_api.cr </a> </td>
+      <td>
+        <img src="https://whatdoestrumpthink.com/assets/img/trump.png" height="20px">
+        <a href="https://github.com/dee-shar/what_does_trump_think.cr"> what_does_trump_think.cr </a> </td>
+      <td>
+        <img src="https://www.lectserve.com/apple-touch-icon.png" height="20px">
+        <a href="https://github.com/dee-shar/lect_serve.cr"> lect_serve.cr </a> </td>
+      <td>
+        <img src="https://restful-api.dev/logo192.png" height="20px">
+        <a href="https://github.com/dee-shar/restful_api.cr"> restful_api.cr </a> </td>
     </tr>
   </table>
   <div align="center">
