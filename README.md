@@ -150,7 +150,7 @@
         <a href="https://github.com/dee-shar/WriteAs.cs"> WriteAs.cs </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/c-sharp.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">Crystal - 35</th> </tr>
+    <tr> <th colspan="5">Crystal - 40</th> </tr>
      <tr>
       <td>
         <img src="https://browserleaks.com/img/favicons/apple-touch-icon.png" height="20px">
@@ -269,6 +269,23 @@
       <td>
         <img src="https://restful-api.dev/logo192.png" height="20px">
         <a href="https://github.com/dee-shar/restful_api.cr"> restful_api.cr </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://catfact.ninja/favicon.ico" height="20px">
+        <a href="https://github.com/dee-shar/cat_fact_ninja.cr"> cat_fact_ninja.cr </a> </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/8c939176-c47e-4a4e-8365-44eaf64d39ae" height="20px">
+        <a href="https://github.com/dee-shar/ani_recommend_api.cr"> ani_recommend_api.cr </a> </td>
+      <td>
+        <img src="https://generadordni.es/favicon/apple-icon-180x180.png" height="20px">
+        <a href="https://github.com/dee-shar/generador_dni.cr"> generador_dni.cr </a> </td>
+      <td>
+        <img src="https://echoes.soferity.com/Logo.png" height="20px">
+        <a href="https://github.com/dee-shar/echoes.cr"> echoes.cr </a> </td>
+      <td>
+        <img src="https://forismatic.com//favicon.ico" height="20px">
+        <a href="https://github.com/dee-shar/forismatic.cr"> forismatic.cr </a> </td>
     </tr>
   </table>
   <div align="center">
