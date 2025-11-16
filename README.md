@@ -150,7 +150,7 @@
         <a href="https://github.com/dee-shar/WriteAs.cs"> WriteAs.cs </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/c-sharp.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">Crystal - 40</th> </tr>
+    <tr> <th colspan="5">Crystal - 45</th> </tr>
      <tr>
       <td>
         <img src="https://browserleaks.com/img/favicons/apple-touch-icon.png" height="20px">
@@ -286,6 +286,23 @@
       <td>
         <img src="https://forismatic.com//favicon.ico" height="20px">
         <a href="https://github.com/dee-shar/forismatic.cr"> forismatic.cr </a> </td>
+    </tr>
+      <tr>
+      <td>
+        <img src="https://calendarific.com/assets/images/calendarific-logo-new.png" height="20px">
+        <a href="https://github.com/dee-shar/calendarific.cr"> calendarific.cr </a> </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/9de64dc1-faf4-44d2-aff8-0865cfae191a" height="20px">
+        <a href="https://github.com/dee-shar/name_day.cr"> name_day.cr </a> </td>
+      <td>
+        <img src="https://cryptapi.io/_next/static/media/cryptapi_logo_dark.76c734fa.svg" height="20px">
+        <a href="https://github.com/dee-shar/crypt_api.cr"> crypt_api.cr </a> </td>
+      <td>
+        <img src="https://currencyfreaks.com/pics/favicon.ico?v=2.0" height="20px">
+        <a href="https://github.com/dee-shar/currency_freaks.cr"> currency_freaks.cr </a> </td>
+      <td>
+        <img src="https://awesomeapi.com.br/assets/logo-without-slogan-Bi9eImFX.png" height="20px">
+        <a href="https://github.com/dee-shar/awesome_api.cr"> awesome_api.cr </a> </td>
     </tr>
   </table>
   <div align="center">
