@@ -150,7 +150,7 @@
         <a href="https://github.com/dee-shar/WriteAs.cs"> WriteAs.cs </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/c-sharp.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">Crystal - 45</th> </tr>
+    <tr> <th colspan="5">Crystal - 50</th> </tr>
      <tr>
       <td>
         <img src="https://browserleaks.com/img/favicons/apple-touch-icon.png" height="20px">
@@ -287,7 +287,7 @@
         <img src="https://forismatic.com//favicon.ico" height="20px">
         <a href="https://github.com/dee-shar/forismatic.cr"> forismatic.cr </a> </td>
     </tr>
-      <tr>
+    <tr>
       <td>
         <img src="https://calendarific.com/assets/images/calendarific-logo-new.png" height="20px">
         <a href="https://github.com/dee-shar/calendarific.cr"> calendarific.cr </a> </td>
@@ -303,6 +303,23 @@
       <td>
         <img src="https://awesomeapi.com.br/assets/logo-without-slogan-Bi9eImFX.png" height="20px">
         <a href="https://github.com/dee-shar/awesome_api.cr"> awesome_api.cr </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://freeforexapi.com/images/logo2.png" height="20px">
+        <a href="https://github.com/dee-shar/free_forex_api.cr"> free_forex_api.cr </a> </td>
+      <td>
+        <img src="https://fxfeed.io/logo_dark.png" height="20px">
+        <a href="https://github.com/dee-shar/fx_feed.cr"> fx_feed.cr </a> </td>
+      <td>
+        <img src="https://unirateapi.com/lander/static/favicon.png" height="20px">
+        <a href="https://github.com/dee-shar/uni_rate_api.cr"> uni_rate_api.cr </a> </td>
+      <td>
+        <img src="https://www.linguarobot.io/assets/apple-touch-icon-1024x1024.png" height="20px">
+        <a href="https://github.com/dee-shar/lingua_robot.cr"> lingua_robot.cr </a> </td>
+      <td>
+        <img src="https://www.heybounce.io/apple-touch-icon.png" height="20px">
+        <a href="https://github.com/dee-shar/hey_bounce.cr"> hey_bounce.cr </a> </td>
     </tr>
   </table>
   <div align="center">
