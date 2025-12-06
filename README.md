@@ -150,7 +150,7 @@
         <a href="https://github.com/dee-shar/WriteAs.cs"> WriteAs.cs </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/c-sharp.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">Crystal - 55</th> </tr>
+    <tr> <th colspan="5">Crystal - 60</th> </tr>
      <tr>
       <td>
         <img src="https://browserleaks.com/img/favicons/apple-touch-icon.png" height="20px">
@@ -337,6 +337,23 @@
       <td>
         <img src="https://owlbyte.org/assets/logo-owlbyte.png" height="20px">
         <a href="https://github.com/dee-shar/tiny_owl_byte.cr"> tiny_owl_byte.cr </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://httpgoats.com/static/icons/goat.svg" height="20px">
+        <a href="https://github.com/dee-shar/http_goats.cr"> http_goats.cr </a> </td>
+      <td>
+        <img src="https://http.garden/static/icons/garden.svg" height="20px">
+        <a href="https://github.com/dee-shar/http_garden.cr"> http_garden.cr </a> </td>
+      <td>
+        <img src="https://httpducks.com/static/icons/duck.svg" height="20px">
+        <a href="https://github.com/dee-shar/http_ducks.cr"> http_ducks.cr </a> </td>
+      <td>
+        <img src="https://www.ident.me/favicon.ico" height="20px">
+        <a href="https://github.com/dee-shar/ident_me.cr"> ident_me.cr </a> </td>
+      <td>
+        <img src="https://shly.link/assets/img/favicon/2/android-icon-192x192.png" height="20px">
+        <a href="https://github.com/dee-shar/shly.cr"> shly.cr </a> </td>
     </tr>
   </table>
   <div align="center">
