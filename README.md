@@ -1,5 +1,6 @@
 <body>
   <div align="center">
+    <img src="https://media.tenor.com/MAKAsL_8XToAAAAe/napoleon-bonaparte-there-is-nothing-we-can-do.png">
     <h2> Skill <h2>
     <img src="https://skillicons.dev/icons?i=python,javascript,bash,c,html,css,php,markdown,ruby,tailwind,cs,crystal&perline=4">
   </div>
@@ -150,7 +151,7 @@
         <a href="https://github.com/dee-shar/WriteAs.cs"> WriteAs.cs </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/c-sharp.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">Crystal - 60</th> </tr>
+    <tr> <th colspan="5">Crystal - 65</th> </tr>
      <tr>
       <td>
         <img src="https://browserleaks.com/img/favicons/apple-touch-icon.png" height="20px">
@@ -354,6 +355,23 @@
       <td>
         <img src="https://shly.link/assets/img/favicon/2/android-icon-192x192.png" height="20px">
         <a href="https://github.com/dee-shar/shly.cr"> shly.cr </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://emailmux.com/static/favicon.png" height="20px">
+        <a href="https://github.com/dee-shar/email_mux.cr"> email_mux.cr </a> </td>
+      <td>
+        <img src="https://www.profanity.dev/swear-emoji.png" height="20px">
+        <a href="https://github.com/dee-shar/profanity_api.cr"> profanity_api.cr </a> </td>
+      <td>
+        <img src="https://www.bonequest.com/favicon.ico" height="20px">
+        <a href="https://github.com/dee-shar/bonequest.cr"> bonequest.cr </a> </td>
+      <td>
+        <img src="https://www.jiejiariapi.com/favicon.ico" height="20px">
+        <a href="https://github.com/dee-shar/jie_jiari_api.cr"> jie_jiari_api.cr </a> </td>
+      <td>
+        <img src="https://fraudemail.com/static/media/logo.7699edb1350ffaae8a09.png" height="20px">
+        <a href="https://github.com/dee-shar/fraud_email.cr"> fraud_email.cr </a> </td>
     </tr>
   </table>
   <div align="center">
