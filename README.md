@@ -150,7 +150,7 @@
         <a href="https://github.com/dee-shar/WriteAs.cs"> WriteAs.cs </a> </td>
     </tr>
     <tr> <th colspan="5"><a href="https://github.com/dee-shar/dee-shar/blob/main/wrappers/c-sharp.md"> Continue</a></th> </tr>
-    <tr> <th colspan="5">Crystal - 50</th> </tr>
+    <tr> <th colspan="5">Crystal - 55</th> </tr>
      <tr>
       <td>
         <img src="https://browserleaks.com/img/favicons/apple-touch-icon.png" height="20px">
@@ -320,6 +320,23 @@
       <td>
         <img src="https://www.heybounce.io/apple-touch-icon.png" height="20px">
         <a href="https://github.com/dee-shar/hey_bounce.cr"> hey_bounce.cr </a> </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://www.tempmails.cc/favicon.ico" height="20px">
+        <a href="https://github.com/dee-shar/temp_mails_cc.cr"> temp_mails_cc.cr </a> </td>
+      <td>
+        <img src="https://gold-api.com/icon.png" height="20px">
+        <a href="https://github.com/dee-shar/gold_api.cr"> gold_api.cr </a> </td>
+      <td>
+        <img src="https://cdn.shorter.me/assets/img/logo/logo.png" height="20px">
+        <a href="https://github.com/dee-shar/shorter_me.cr"> shorter_me.cr </a> </td>
+      <td>
+        <img src="https://myip.wtf/favicon.ico" height="20px">
+        <a href="https://github.com/dee-shar/my_ip_wtf.cr"> my_ip_wtf.cr </a> </td>
+      <td>
+        <img src="https://owlbyte.org/assets/logo-owlbyte.png" height="20px">
+        <a href="https://github.com/dee-shar/tiny_owl_byte.cr"> tiny_owl_byte.cr </a> </td>
     </tr>
   </table>
   <div align="center">
